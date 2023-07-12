@@ -18,4 +18,7 @@
 
 
 [Click this Link to go to Prolog Textbook](/Week13-14/Textbook_Prolog.pdf)
-[Click this Link to go to Concepts of Programming Languages by Sebesta](/Textbooks/Michael L. Scott - Programming Language Pragmatics (2015, Morgan Kaufmann).pdf)
+
+[Click this Link to go to Concepts of Programming Languages by Sebesta](/Textbooks/Concepts_of_Programming_Languages)
+
+[Click this Link to go to Concepts of Programming Languages by Sebesta](/Textbooks/Programming_Language_Pragmatics)
