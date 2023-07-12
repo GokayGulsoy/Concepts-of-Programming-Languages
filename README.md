@@ -1,6 +1,6 @@
 ### Concepts-of-Programming-Languages
-#CENG212 Course that I have taken at IZTECH
-#Course contents
+# CENG212 Course that I have taken at IZTECH
+# Course contents
 1. Introduction
 2. Programming Language Syntax
 3. Names,Bindings and Scopes
