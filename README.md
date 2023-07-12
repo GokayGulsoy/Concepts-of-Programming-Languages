@@ -15,3 +15,6 @@
 12. Subroutines (Overloaded and Generic subprograms)
 13. Logic Languages and Prolog part 1
 14. Logic Languages and Prolog part 2
+
+
+[Click this Link to go to Prolog Textbook] (/Week13-14/Textbook_Prolog.pdf)
