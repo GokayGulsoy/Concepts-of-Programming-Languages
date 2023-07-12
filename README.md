@@ -21,4 +21,4 @@
 
 [Click this Link to go to Concepts of Programming Languages by Sebesta](/Textbooks/Concepts_of_Programming_Languages.pdf)
 
-[Click this Link to go to Concepts of Programming Languages by Sebesta](/Textbooks/Programming_Language_Pragmatics.pdf)
+[Click this Link to go to Programming Language Pragmatics by Michael Scott](/Textbooks/Programming_Language_Pragmatics.pdf)
